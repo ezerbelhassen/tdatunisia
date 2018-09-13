@@ -1,45 +1,3 @@
-
-/*
-Author: bootstrapthemes
-Author URI: http://bootstrapthemes.co
-*/
-
-
-/*==========================================
- 1.  PREDIFINEED (FROM 1 TO 457)
- 2.  NAVIGATION - LINE NO 465 
- 3.  HOME - LINE NO 517
- 4.  ABOUT US - LINE NO 563
- 5.  TOBIAS SECTION - LINE NO 615
- 5.  SERVICE - LINE NO 640
- 6.  TEAM - LINE NO 682
- 7.  PORTFOLIO - LINE NO 715
- 8.  CONTACT US - LINE NO 736
- 9.  FOOTER - LINE NO 761
-==========================================*/
-
-/*==========================================
-
- 1.   BOOTSTRAP FRAMEWORK
- 2.   MATERIAL DESIGN
- 3.   NAVMENU
- 4.   WOW JS 
- 5.   ANIMATE CSS
- 6.   MAGNIFIC-POPUP PORTFOLIO  
- 7.   MAGNIFIC-POPUP VIDEO
- 8.   GOOGLE GMAPS
- 9.   JQUERY EASING JS
- 10.  FONT AWESOME
- 11.  MONTSERRAT BOLD
-
-==========================================*/
-
-
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
 html,
 body {
     background-color: #fff;
@@ -76,6 +34,7 @@ PRE LOADER
     text-align: center;
     margin-top: 200px;
     margin-bottom: 50px;
+    coloe: "white";
 }
 .loaded {
     width: 60px;
